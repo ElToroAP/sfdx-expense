@@ -13,6 +13,7 @@
     "sourceApiVersion": "43.0",
     "packageAliases": {
         "Expense": "0Ho5A000000KyjzSAC",
-        "Expense@0.1.0-1": "04t5A000001N1RlQAK"
+        "Expense@0.1.0-1": "04t5A000001N1RlQAK",
+        "Expense@0.1.0-2": "04t5A000001NFy3QAG"
     }
 }
